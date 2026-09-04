@@ -16,7 +16,7 @@
 
 ## 📈 Currently
 - 🌱 深入学习: 多模态 Agent / 推理优化
-- 💼 求职: LLM 应用开发实习（可 6 个月以上，每周 4 天+）
+- 💼 求职: LLM 应用开发（可 6 个月以上，每周 4 天+）
 
 ## 🛠 技术栈
 Python · LangChain/LangGraph · ChromaDB · NetworkX · LoRA/PEFT · vLLM · FastAPI · Docker
